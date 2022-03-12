@@ -21,3 +21,9 @@ pada poin ini sya akan membuat paragraf pada file html.
 pada sintax p bertujuan untuk membuat paragraf baru. berikut tampilannya. <br>
 
 ![membuat paragraf baru](pictures/paragraf1.PNG)
+
+_ **perataaan paragraf**
+
+disini saya akan merubah perataan pada paragraf yang sudah tersedia, yaitu pragraf pertama menjadi rata tengah, paragraf kedua rata kanan. berikut tampilannya.
+
+![perataan paragraf html](pictures/perataan-paragraf.PNG)
