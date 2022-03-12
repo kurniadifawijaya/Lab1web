@@ -11,4 +11,4 @@ kelas : TI.20.B.1
 **pada pertemuan 2 mata kuliah pemograman web, saya akan melakukan beberapa perintah pada html**
 
 - menampilkan title html pada browser <br>
-![gambar title html dasar](pictures/titlehtml.png)
+![gambar title html dasar](pictures/titlehtml.PNG)
